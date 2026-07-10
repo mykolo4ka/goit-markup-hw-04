@@ -1,2 +1,2 @@
 goit-markup-hw-04
-by Vlad(;
+by Mykola Fedash
